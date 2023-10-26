@@ -1,3 +1,5 @@
-a=2
-if(a==2):
-	print(True)
+a=3
+b=4
+
+if(a!=2):
+	a=2
